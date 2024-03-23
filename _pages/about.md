@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: 实验室简介
 permalink: /
 subtitle: 
 
