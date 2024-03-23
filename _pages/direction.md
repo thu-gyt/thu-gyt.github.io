@@ -1,6 +1,6 @@
 ---
 layout: profiles
-permalink: /people/
+permalink: /direction/
 title: 研究方向
 description: 
 nav: true
