@@ -11,19 +11,19 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: prof_pic.jpg
-    content: directions/1.md
+    content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: 
 
-  - align: left
-    image: prof_pic.jpg
-    content: directions/2.md
-    image_circular: false # crops the image to make it circular
-    more_info: 
+  # - align: left
+  #   image: prof_pic.jpg
+  #   content: directions/2.md
+  #   image_circular: false # crops the image to make it circular
+  #   more_info: 
 
-  - align: right
-    image: prof_pic.jpg
-    content: directions/3.md
-    image_circular: false # crops the image to make it circular
-    more_info: 
+  # - align: right
+  #   image: prof_pic.jpg
+  #   content: directions/3.md
+  #   image_circular: false # crops the image to make it circular
+  #   more_info: 
 ---
