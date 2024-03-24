@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
+title: 耿彦涛
 description: a project with a background image
-img: assets/img/12.jpg
+img: assets/img/gyt.jpg
 importance: 1
 category: 博士
 related_publications: true
