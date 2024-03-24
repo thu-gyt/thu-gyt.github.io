@@ -5,7 +5,7 @@ permalink: /team/
 description: 研究团队展示.
 nav: true
 nav_order: 3
-display_categories: [教师, 博士]
+display_categories: [教师, 博士, 硕士, 本科生]
 horizontal: false
 ---
 
