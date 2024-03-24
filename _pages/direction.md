@@ -9,21 +9,21 @@ nav_order: 1
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-  - align: right
-    image: prof_pic.jpg
-    content: 1.md
+  - align: left
+    image: 
+    content: direction1.md
     image_circular: false # crops the image to make it circular
     more_info: 
 
-  # - align: left
-  #   image: prof_pic.jpg
-  #   content: directions/2.md
-  #   image_circular: false # crops the image to make it circular
-  #   more_info: 
+  - align: left
+    image: 
+    content: direction2.md
+    image_circular: false # crops the image to make it circular
+    more_info: 
 
-  # - align: right
-  #   image: prof_pic.jpg
-  #   content: directions/3.md
-  #   image_circular: false # crops the image to make it circular
-  #   more_info: 
+  - align: left
+    image: 
+    content: direction3.md
+    image_circular: false # crops the image to make it circular
+    more_info: 
 ---
