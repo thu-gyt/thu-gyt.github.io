@@ -6,7 +6,7 @@ img: assets/img/gyt.jpg
 importance: 2
 category: 博士
 related_publications: true
-url: cv-gyt
+resume: cv-gyt
 ---
 
 Every project has a beautiful feature showcase page.
